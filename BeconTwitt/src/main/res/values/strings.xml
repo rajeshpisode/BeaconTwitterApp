@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TwitterDemo</string>
+
+    <string name="hello">Hello,</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="login_label">  Login to Twitter</string>
+    <string name="enter_label">Enter share message</string>
+    <string name="login_btn">Login to Twitter</string>
+    <string name="share_btn">Share</string>
+
+    <string name="twitter_callback">http://javatechig.android.app</string>
+    <string name="twitter_consumer_key">4T74tkftHw8YyVxORaYJIOZct</string>
+    <string name="twitter_consumer_secret">1AoDPB4aMwo7njrMRG4ycIrTB582xZMZrRhW6vjd3GkSljPRCX</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="search_beacon">Search Beacons</string>
+
+
+</resources>

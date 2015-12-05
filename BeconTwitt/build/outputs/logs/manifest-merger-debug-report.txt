@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:3:11-48
+	android:versionName
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:5:11-36
+	android:versionCode
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:10:3-87
+MERGED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:10:62-85
+	android:name
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:10:17-61
+application
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:12:3-51:17
+MERGED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:14:7-37
+	android:theme
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:15:7-43
+	android:name
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:13:7-44
+activity#com.estimote.examples.demos.activities.BeaconActivity
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:17:5-25:16
+	android:screenOrientation
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:20:9-45
+	android:label
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:19:9-39
+	android:name
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:18:9-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:21:7-24:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:23:9-68
+	android:name
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:23:19-66
+activity#com.estimote.examples.demos.activities.ListBeaconsActivity
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:27:5-30:47
+	android:screenOrientation
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:30:9-45
+	android:label
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:29:9-38
+	android:name
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:28:9-55
+activity#com.estimote.examples.demos.activities.MainActivity
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:31:7-34:49
+	android:screenOrientation
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:34:11-47
+	android:label
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:33:11-34
+	android:name
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:32:11-50
+activity#com.estimote.examples.demos.activities.WebViewActivity
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:35:7-38:49
+	android:screenOrientation
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:38:11-47
+	android:label
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:37:11-34
+	android:name
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:36:11-53
+activity#com.estimote.examples.demos.activities.SearchBeaconActivity
+ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:40:7-42:53
+	android:screenOrientation
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:42:15-51
+	android:label
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:41:15-44
+	android:name
+		ADDED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml:40:17-64
+uses-sdk
+INJECTED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+	android:minSdkVersion
+		INJECTED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\Desktop\BeconTwitt\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.INTERNET
+ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:14:22-76
+service#com.estimote.sdk.service.BeaconService
+ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from [:estimote-sdk:] C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\AndroidManifest.xml:22:13-66

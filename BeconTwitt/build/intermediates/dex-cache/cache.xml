@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hp\Desktop\Demos\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\hp\Desktop\Demos\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-0a68d27c587bbbbcf928d062425fcc93f80f4f38.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Desktop\Demos\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\hp\Desktop\Demos\build\intermediates\pre-dexed\debug\classes-e8278e6da3d0991d0928563eb5e30991d2452f80.jar" />
+    </item>
+    <item
+        jar="D:\Software\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\hp\Desktop\Demos\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-1fc6629e46f4ef4b8bf9155b4aebd4eb0adb83f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\.gradle\caches\modules-2\files-2.1\org.twitter4j\twitter4j-core\4.0.3\673bf484312c3407bb3dd24bfb8c804fa4d99d0b\twitter4j-core-4.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="673bf484312c3407bb3dd24bfb8c804fa4d99d0b">
+        <dex dex="C:\Users\hp\Desktop\Demos\build\intermediates\pre-dexed\debug\twitter4j-core-4.0.3-05e2d1426dd485428a9f013822327cf4a7f0727d.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\estimote-sdk\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd59a0100d087a7d6b64b8679193c2c1a5315bde">
+        <dex dex="C:\Users\hp\Desktop\BeconTwitt\build\intermediates\pre-dexed\debug\classes-f04a03fb773cf85c1f7123b2e47e43c36942964d.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\hp\Desktop\BeconTwitt\build\intermediates\pre-dexed\debug\classes-589d215fa1fba89ba93dc7088941a14c1dd43894.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Desktop\Demos\build\intermediates\exploded-aar\estimote-sdk\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd59a0100d087a7d6b64b8679193c2c1a5315bde">
+        <dex dex="C:\Users\hp\Desktop\Demos\build\intermediates\pre-dexed\debug\classes-d2ab339acdd1adc0f2ab322928273c925d918a25.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Desktop\Demos\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\hp\Desktop\Demos\build\intermediates\pre-dexed\debug\classes-bad347e58e9f5a4414c9b05862dd200f3cd91ba3.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\hp\Desktop\BeconTwitt\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-277d79b7989a7053b374d369b795494b3fd72e7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Desktop\BeconTwitt\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\hp\Desktop\BeconTwitt\build\intermediates\pre-dexed\debug\classes-e13aa8d07f35d37767644ce67bc4dee2bbd1cbe9.jar" />
+    </item>
+
+</items>
